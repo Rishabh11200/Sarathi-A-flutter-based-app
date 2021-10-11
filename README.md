@@ -1,4 +1,4 @@
-# SARATHI - Flutter App ![Build status]
+# SARATHI - Flutter App
 
 <img src="https://github.com/Rishabh11200/QuestionPaper_Bank/blob/master/assets/appicon.png" align="left"
 width="200" hspace="10" vspace="10">
@@ -43,4 +43,4 @@ On Android versions prior to Android 6.0, wallabag requires the following permis
 
 ## Contributing
 
-It was made under the guidance and material from [Gujarat university library](https://gulibrary.com/)
+It was made under the guidance and material from [Gujarat university library](https://gulibrary.com/).
