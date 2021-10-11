@@ -44,3 +44,11 @@ On Android versions prior to Android 6.0, wallabag requires the following permis
 ## Contributing
 
 It was made under the guidance and material from [Gujarat university library](https://gulibrary.com/).
+
+
+# Credits
+
+[Jinali Sanghavi](https://github.com/jinali99)
+[Pranjal Bhimani](https://github.com/pranjalbhimani)
+[Me](https://github.com/Rishabh11200)
+
