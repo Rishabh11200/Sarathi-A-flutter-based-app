@@ -17,7 +17,7 @@ Sarathi is available on the Google Play Store.
 ## About
 
 Sarathi app is made specifically for <b>Gujarat University</b> students.
-You can easily watch the previous yea question papers according to year and other filters too!
+You can easily watch the previous year question papers according to year and other filters too!
 
 ## Features
 
