@@ -48,7 +48,7 @@ It was made under the guidance and material from [Gujarat university library](ht
 
 # Credits
 
-[Jinali Sanghavi](https://github.com/jinali99)<br>
 [Pranjal Bhimani](https://github.com/pranjalbhimani)<br>
+[Jinali Sanghavi](https://github.com/jinali99)<br>
 [Rishabh Shah(Me)](https://github.com/Rishabh11200)
 
